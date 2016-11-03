@@ -58,6 +58,7 @@
       <HintPath>..\..\packages\NuGet.Core.2.12.0\lib\net40-Client\NuGet.Core.dll</HintPath>
       <Private>True</Private>
       <Aliases>NuGetCore</Aliases>
+      <Aliases>PackageNuGet</Aliases>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
