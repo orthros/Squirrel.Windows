@@ -1,10 +1,11 @@
-﻿using System;
+﻿extern alias NuGetCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Splat;
-using NuGet;
+using NuGetCore::NuGet;
 
 namespace Squirrel
 {
